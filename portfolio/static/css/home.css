@@ -1,0 +1,74 @@
+
+.content{
+    width: 60%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+    float: right;
+}
+
+
+.profile{
+  
+    background-repeat: no-repeat;
+    position: fixed;
+    background-size: cover;
+    background-image: url(../image/IMG20220522205952-01.jpeg);
+    height: 100%;
+    width: 40%;
+    padding: 0%;
+    margin: 0%;
+
+}
+.nav1{
+    float: right;
+    margin-top: 30px;    
+}
+.name{
+    padding-left: 45%;
+    padding-top: 20ch;
+}
+#name{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.resume{
+    padding-left: 50%;
+}
+.resume_link{
+    text-decoration: none;
+}
+#postion{
+    font-size: 20px;
+    padding-left: 49%;
+}
+.head1{
+    padding-top: 8ch;
+    padding-left: 15px;
+}
+.form1{
+    padding-left: 15px;
+}
+.head1{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(81, 72, 72);
+}
+#loction{
+    padding-left: 15px;
+    height: 30px;
+}
+.form1{
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: rgb(180, 173, 173);
+    padding-top: 100px;
+    padding-left: 47%;
+    padding-bottom: 80px;
+}
+.roadpic{
+    padding-left: 15px;
+}
